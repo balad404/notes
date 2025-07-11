@@ -1,0 +1,7 @@
+{
+	"Star-Embracing Swordmaster": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"0/Hdz/fkuNnjtM3tkuvB1eXzs++b1OLpg/ndrvKZ0NKTh7LH\" data-dl2=\"0/Tuj+mSrbL9kLHjt7XsltPvtOX6z+3ylM3Z0bTkhbDCrMn5\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLmkbLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXp9PD2+PE0tafj8/tkcabz8KZlPnouOLordCd1NDptfvGlcjik9b6kLnN0OvghQ==\" data-dl4=\"ivXekvKQza7dlfaEhvPFkuPFmq/JjeyFkeLGzefDzejCjrHQkPCbh7jBjLSc1O+a283Z0bLAjK75luDYz8THgPPLgejEhaz5le7YhuzLkfXPkKya0rCH0rSazPvDkr7YjurPm7yakOnTh7XPiuiSle6bl/PPirHNk+bI0rXG\" data-dl5=\"jsPSj/nouMCJ1ev+m9PtqNHpmKzFiLHrlObJt+OHlfKTrvKZjLHO29P9h8bul8Lpsu7upODzow==\" data-dl6=\"hcfaiPjp1MWJ1ev+m9PtqNHpmKzFiLHrlObJt+OHlfKTjLHO29P9h8bul83Z0cLpsu7upODzow==\" data-dl7=\"kLjAm+rc0OzmkbLemuKfl+LezdLeg/OHp+zIkODJi+/NvdLdjfPOj+DZluTYvbGa06ya17GEmOjazefDjuQ=\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
