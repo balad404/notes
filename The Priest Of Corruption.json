@@ -1,0 +1,7 @@
+{
+	"The Priest Of Corruption": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"08aa297PgMXjg+/jgerNtc3Z0cibuOjtjPLQs+rIvbL+iePo\" data-dl2=\"09KTs8fZqdDciPHEjLOc2+KekrDG0eSdoMSeivPmtM3Z0bPr\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/jmkbKEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXp+P9tvHppfv7sbTklsXhofHIktvAkLnotM7bmNjA2unilrDyicrntrHPs9fhhQ==\" data-dl4=\"ivXekvKQza7dlfaEhvPFkuPFmq/JjeyFkeLGzefDzfPOkuTBi7jfk/LLifPHmurZ0bOZl67+iuSHsvPDh/LervKZz87Mz8LFkPPfkvXDje+H0rGbz7Gf0q/Qi/GVkO3Bh/iX1fGdivjSiO3a1/PP0evEhvuc2unb0u2Y0A==\" data-dl5=\"icDzhen5q82JpMbHodXpgOLsm7PmkbL/mLTNl8Tt1cnp1eLb1LjcocnphcLrrcvcm/jmtPbG1g==\" data-dl6=\"lcvFodfglcOJpMbHodXpgOLsm7P/mLTNl8Tt1cnprvKZ1eLb1LjcocnphcLrrcvcm/jmtPbG1g==\" data-dl7=\"1rCZ2u7Hg+DYlPWf0PHOzdXCrvKZh976kOjPkfX1ref1oe7YkPTalujFjN6a0rCH0rSazPvDkq7Mi+3P\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
