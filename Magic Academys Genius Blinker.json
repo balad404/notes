@@ -1,0 +1,7 @@
+{
+	"Magic Academys Genius Blinker": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"07Pigbn5teL6pdP9q8XFss7tvenclcr7usOHrc3Z0bTQleDm\" data-dl2=\"0+D1p+iYmMrhz+acoeTY2+Lih7Hnp83Z0cjEkreHtuLFh++a\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXp9bo0LKTiKz5sunni8zDsOzCjLTHmsjops3Z0feZ1eOHlMea0ej5tsLii97Iq9D5sw==\" data-dl4=\"ivXekvKQza7dlfaEhvPFrvKZkuPFmq/JjeyFkeLGzefDzeaY0bOZhu/bkfjT0rnPh/LT0fvEgK7ng+bDgazrgeDOh+zTz/KHpeTEi/TZz8PGi+/Bh/OH0rGbz7Gf0q/Qi/GVkO3Bh/iXjLDMgOuZ0enNjbWdm7LI2uzckOjBgbnTkQ==\" data-dl5=\"isjjjtfmmtKJuMnSrvKZ2s7T1dDMgMznh/Pcgc3hl839k9f7r+/5qOr+kPP50czOsvPds8STuw==\" data-dl6=\"scf8p7DpktiJuMnS2s7T1dDMgMznh/Pcgc3hl83Z0c39k9f7r+/5qOr+kPP50czOsvPds8STuw==\" data-dl7=\"l7Ga1eTNhLnfke+dgemSzczLrvKZhejJvcDJg+XPj/iP0LSY1fL1peTEi/TZvcPGi+/Bh/P10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
