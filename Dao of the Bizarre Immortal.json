@@ -1,0 +1,7 @@
+{
+	"Dao of the Bizarre Immortal": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"07jZhMrHvevEs7Log/mdpPPZtMLJmvuei7jmkbLFqPPetuTk\" data-dl2=\"08TmpM7T0PvgoePf2rPHjbCSqdaSl+PD0uXjz6zMo83Z0eWb\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg83Z0e2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXp+f+1uDittjS0Mvki+Xdu7nf0vbrz7XotObIusrFteXnt9nCu++Hl+7mpLSalQ==\" data-dl4=\"ivXekvKQza7dlfaEhvPFkuPFmq/JjeyFkeLGzefDze+biunC2vDP2/ef1/LO1uLeh7eb1K7ug+6HjeeHlunPz8PDmODYkOSHq+zHjfPeg+2H0rGbz7Gf0q/Qi/GVkO3Bh/iX1+6c0OPJjfbb0/TclOjS1LDHrvKZg/DTm7jQ1w==\" data-dl5=\"q/fjsbHg1tuJ0LDJjO2ftOnZuM3Z0dHPrszysu/pl/nTlPbHjdnpg/WakfeSoLLluPHauuDykQ==\" data-dl6=\"iPbjo9bmkbLmksWJ0LDJjO2ftOnZuNHPrszysu/pl/nTlPbHjdnpg/WakfeSoLLluPHauuDykQ==\" data-dl7=\"l/HFkbbLm+bPg+3JkuXczcXLjd7FhN7eiuT1oOjQg/PYh97jrvKZj+zFkPXLjt6a0rCH0rSazPvDkq7Mi+3P\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
