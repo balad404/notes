@@ -1,0 +1,7 @@
+{
+	"The Ultimate Shut-In": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"0+yegcL4trSZ1/bik/HJrPXYhdDnlrbBrMrYsNCdrvKZlqzs\" data-dl2=\"07Der/SchuT8o9PbvbServKZl/LNicT6jOeZjPvzh+n1lLXn\" data-dl3=\"ivXekvKQza7ZgenfrvKZgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXp9bFiujNs8Tep9vtienvifLHgbXQkcjo2ujIqOv60sbIo7OaqNX6scDh29Pdow==\" data-dl4=\"ivXekvKQza7dlfaEhvPFkuPFmq/JjeyFkeLGzefDzbjSl/XQk+3Q0vmTlvWZ27PC0PKa1q7+iuSHt+3ei+zLluSHsenflqzjjM3Z0aya0rCH0rSazPvDkr7YjurPm7zeiPbdlOjEjbXaiuPchfCf2rPI2+nJlvjP\" data-dl5=\"kvee08b+m8WJ2sDAjPnTh/PO1/Dyr8bGkMLPrvKZtPfdlfDN0Pvit+L5mubEqs3hhrHuldfp2g==\" data-dl6=\"i/nNsNP+i8OJ2sDAjPnTh83Z0fPO1/Dyr8bGkMLPtPfdlfDN0Pvit+L5mubEqs3hhrHuldfp2g==\" data-dl7=\"g+ffgLGfrvKZkviZmvXMhPufzdXCh97/jvXDj+Deh975ivTez8jEvbGa06ya17GEmOjazefDjuQ=\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
