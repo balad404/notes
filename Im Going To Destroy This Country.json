@@ -1,0 +1,7 @@
+{
+	"Im Going To Destroy This Country": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"0+31p97wid7k0uLzpLj717nfgbXEr+TIhuDYrvKZpMv7psfi\" data-dl2=\"0+meqsD4hsPZhsz40+7yj+Dh2urhhunQ0OzJjM3Z0ePQlOvp\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7mkbLHzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXp+LJreb7jteZge3ni8KHgNOdjOLiq9Too/jvvbidk8njtdjto9jk1u3nqMTFlQ==\" data-dl4=\"rvKZivXekvKQza7dlfaEhvPFkuPFmq/JjeyFkeLGzefDzbDMkeTCi/Cf1fnS0vfJibae1fPL0K7jz+yHpe7DjOaHtu6HpuTZlvPFm6z+iujZz8LFl+/ekPiH0rGbz7Gf0q/Qi/GVkO3Bh/iX1e/blPTCiOXNkvPGgfLE2vvO1fDEkbfbkg==\" data-dl5=\"gfvFpdDopsCJqrn8jO/dhM3cr+v9js3Z0ebmk7XGgLPgjeOfh9TviLTMkvHci8ydjNKZq+jcuw==\" data-dl6=\"0OraidbzrtuJqrn8jO/dhM3cr+v9jubmk7XGgLPgjc3Z0eOfh9TviLTMkvHci8ydjNKZq+jcuw==\" data-dl7=\"0uvPm/Tck+bY0+7Tie/GzciPrvKZ0LSY1ez1pe7DjOb1tu71puTZlvPFm97+iujZvcLFl+/ekPj10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
