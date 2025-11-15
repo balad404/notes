@@ -1,0 +1,7 @@
+{
+	"Weapon-Eating Bastard": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"07HAj9XjkNPC27nd1dnmmLmSuviYuPDmkbL+pPPdr9eZisf+\" data-dl2=\"07Ga2+vrveXjkPDShdfkkrXmkbLAiOnht+aSpMTjt8ecrMv+\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TervKZjfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXp+PbicbT1PPesdviltufuNTjkvTe1bHotcPG0tfsmLDrp7bajtWahuWHqPjglQ==\" data-dl4=\"ivXekvKQza7dlfaEhvPFkuPFmq/JjeyFkeLGzefDzeDBj+3Tk+mY0bici+2ZhvHejrHJ0K79h+Daje+Hp+Dei+/Nz8PLkfXLkOWH0rGbz7Gf0q/Qi/GVkO3Bh/iXl/Odke/Dhefb0+fbjebImOCc0/Hcis3Z0eTGgA==\" data-dl5=\"qvbzidnok8qJqe/dz+jgjaz6tOXyuuLYtvjhrvKZtLOSrtLcgNLMj7j8tcLoi7jOkcv4q8j10g==\" data-dl6=\"rfXdpNbzk8uJqe/dz+jgjaz6tOXyuuLYtvjhtLOSrtLmkbLcgNLMj7j8tcLoi7jOkcv4q8j10g==\" data-dl7=\"leDF0ePEl/vNgPnIgbHGzdbPg/HFjKzvg/XDjOb1oKSYrvKZo/Lex7PrkOX10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
