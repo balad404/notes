@@ -1,0 +1,7 @@
+{
+	"The Heavenly Demon Wants A Quiet Life": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"08LDg/Pjp7bdiOL7ifv6k8qdkcScleX1us3Z0e7v0u/Mierh\" data-dl2=\"083h0NSbuPDNsdLQkM2ZlPXhqs3Z0dbS0szHqen5pcnGurDc\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl83Z0fXZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXq9DopcrnltHaseT8sc3sk8btgc7s0tLMo+XeiPjkl9DhqOnil/HuldD7isz428g=\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6c27Oe2+DO183Z0efL0rGS1rGa0rCa0rjM27OFh+XI1eXI0rXM0Lad1rie0rmY1LWdgLjIgLPPgbSc0bc=\" data-dl5=\"j+n4pdLrsMKJt/PmqeWc1MKTsLDE0sngmrbsj6zMjsLk283Z0czGrbjpkbPoz7PzleLngOLTpw==\" data-dl6=\"luXvhcfImODmkbKJt/PmqeWc1MKTsLDE0sngmrbsj6zMjsLk28zGrbjpkbPoz7PzleLngOLTpw==\" data-dl7=\"1ebLj7LG2/DakeXfl+rAzdXCh97ih+Dch+/Gm97uh+zFjN79g+/ekd7rvdDfi+Tevc3DhOT10rGbz7Gf0q/Qi/GFhM3Z0ejGhw==\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
