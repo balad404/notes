@@ -1,0 +1,7 @@
+{
+	"The Regressed Mercenarys Machinations": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"09v9kMz8qtvIttjDlNLOz7b+qe/T1M3hpOTHm9KYrvKZ1rnM\" data-dl2=\"09XYts7HrvKZktXohvLEtMjSirTFgPbOq/nzm7j+r/iclLXk\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXq9DolcrLtOP5rsLDtsjMhs3Z0dv9iOjlu8Pvo9Tjr8SessD1irHBrNia0LXwmMn109Q=\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHmkbLDjK7Dja7OjfbEju7LhtHfgO3Dga6c27KY27idhrnJh7ef1bGa0rDO2uSZ2ueFhOeb0bOchLWZhLHI1ridhLnP0uWZg+CS0rCf0bbI1OU=\" data-dl5=\"l7DroOrwk9uJt7iZh9Cbu+DpuPebrvKZobTdmtXkpPCdoKzyqdfMlvbDhMaep8DmmvD5oOzN1g==\" data-dl6=\"lcj8oezpitKJt7iZh9Cbu+DpuPebobTdmtXkpPCdoKzyqdfMlvbmkbLDhMaep8DmmvD5oOzN1g==\" data-dl7=\"gPfdhvvIlunPlOLEkuzZzdXmkbLCh974h+bYh/LZh+X1r+TYgeTEg/PTkd7ng+LCi+/LlujFjPL10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
