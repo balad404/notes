@@ -1,0 +1,7 @@
+{
+	"I Took Over the Academy With a Single Sashimi Knife": {
+		"dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+		"chapter": "data-dl1=\"07HksMLaj83Z0dfDpM/om8rgp+fntsrC19PNieealPfSz+CY\" data-dl2=\"08KdvcmaoNLNr9bZu+TdmuPTmuSHrNTb16zd1tvL1s3Z0eP9\" data-dl3=\"ivXekvKQza7Zgc3Z0enfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7chPP1i+WZ1LTakO71je/Hi+LYjfLFhPX1ge7Hzd7Gg/jFl/XZzbCfzeXFle/GjeDOzODZkvmVkenLkOSXq9Dok8DguLLFiMXvsPHopfKfuPvBteTEo9fjuM/A1+7C0MPQ1rPvi+vmsvD9kNg=\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7mkbLfhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6c27KY27idhrnJh7ef1bGa0rDO2uSZ2ueF0LSZgeeb0uCc1+Ce1rPI2+DOg7GY2+KY1eWeg7bPh7M=\" data-dl5=\"h/GeobLriOOJp/mSkvfbre380fvTl9HmkbLusPj4u8z5uvH7jbP6u/GZssXCl8LrlbXu1+vIrw==\" data-dl6=\"q9DvldT+oMuJp/mSkvfbrc3Z0e380fvTl9HusPj4u8z5uvH7jbP6u/GZssXCl8LrlbXu1+vIrw==\" data-dl7=\"luTfle6YiPXMkPbFm+DNzcj1tu7Fid7FlOTYvdXCh97rgeDOh+zTvc3Z0dbDlun1g975i+/NjuT1seDZiujHi96a0rGH0rSazPvDkq7Mi+3P\"",
+		"bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+	}
+}
