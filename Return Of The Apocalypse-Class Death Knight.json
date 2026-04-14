@@ -1,0 +1,7 @@
+{
+  "Return Of The Apocalypse-Class Death Knight": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"08f4vdbOt7KYrubThc3hhtflg83Z0fSdibTCqNTtoOPAm8vh\" data-dl2=\"07DLptXoh/KSjOzQ1MfHuMb/jvbw0crOrvKZsMDgluzOtfWf\" data-dl3=\"ivXekvKQza7ZgenfgermkbLZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8DmjsLuitjsh/b+gLSfpbXPu8bd0snrgMaekM7otfHFiLjvjfHa0bXGp82btw==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEjs3Z0e7LhtHfgO3Dga6c2+XI0eeS17HJg7md0rGa0rCYgbXI1LKF0bic17ef0OOfh+LL1uKS2uCShrKShuTI0befh+fMg7Y=\" data-dl5=\"o+rztubIhdCJkdHnz8nGuOLJkrPksvLmkbL8sdjGsrfwlPXdl9n4suzSuM3tqM7F0c/707ectw==\" data-dl6=\"prnNj9PLqMuJkdHnz8nGuOLJkrPksvL8sdjGsrfwlPXdl9n4suzSuM3tqM7F0c/mkbL707ectw==\" data-dl7=\"iuaS0rfL1fnegLaahePSzdPPlvTYjN7lhM3Z0d7+iuT1o/HFgeDGm/HZh6zpjuDZkd7uh+Deit7hjOjNivX10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
