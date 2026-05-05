@@ -1,0 +1,7 @@
+{
+  "Shinobi Undercover": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0+/NtKz+g9SdmPXi2rjmkbLchuzLutOf1d7hl87GksSZiMLl\" data-dl2=\"0+vuk83Z0c7DqOyeq+bSivLop+TZiOfktvLPks3YktPLmPDA\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejErvKZlq/JjeyFkuTYke7Eg+2FjObLkPLDkt7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8XrqeTr2/LDsvP+kPD+suaSh/nrsPvrhsPhl8X1mNvArc7LmMXksOTTgNmSuw==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6c2+ec0+WbhLHJg7md0rGa0rCYgbSbrvKZhOSF1+Kb17KZ27Oeg7HI1rLPhLmYgLjPgeWd0LSSgLGZ1uM=\" data-dl5=\"qvLC0/nIsduJo7Du2szp1bDzrO3Lj+jelsPHs8jZz+Obr83Z0fnBjrfrutj6ofT7qcLju6zElQ==\" data-dl6=\"iuXjutDjgMPmkbKJo7Du2szp1bDzrO3Lj+jelsPHs8jZz+Obr/nBjrfrutj6ofT7qcLju6zElQ==\" data-dl7=\"i/ebheOdk/nClc3Z0efEjPDOzdLCi+/FgOj1t+/Oh/PJjffPkN6a0rCH0rSazPvDkq7Mi+3P\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
