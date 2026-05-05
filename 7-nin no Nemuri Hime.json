@@ -1,0 +1,7 @@
+{
+  "7-nin no Nemuri Hime": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0+vMr7Hi0azyifCfmtWYuOTmkbLGsvOSodPgs+2fpMCbrLn8\" data-dl2=\"087vr8mTr/HQiuKS1NblmvXMrvKZ0Mrpr+LCg+WchOrDhbPn\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8Xdp+KblfLlj9T7jeycg/Sa1NHstfDrse/mkbLLmsWZ0cjC0MvS1rTirveajMncrw==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6c2+ec0+WbhLHJg7md0rGa0rCYgbSbhOSFrvKZ1+Sf0eDIgbDI27Sb1rObg+DPg+OehLmd0LaZ2uLMh7Q=\" data-dl5=\"jPbzquzLpuCJurDIm8+Ssu7usfDmkbLApOfflsLZgNXf0cXQm8f/28fIiOLfvbiSqceZ19DNrw==\" data-dl6=\"ldPCuuv+ksCJurDIm8+Ssu7usfDApOfflsLZgNXf0cXQm8f/28fIiOLmkbLfvbiSqceZ19DNrw==\" data-dl7=\"g7jamLmTje7GkeTQ0ejLzbaHjOjEve/Fvc/Pj/TYi97ii+zPvbGa06ya17GEmM3Z0ejazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
