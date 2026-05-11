@@ -1,0 +1,7 @@
+{
+  "May I Ask for One Final Thing": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0/nf0dfQ2uzjgeDZk+jCl8Lcqrfu08qb1ueerOnHk7HmkbLM\" data-dl2=\"08f11MOYr9nsr87pkM3Z0eDau+7Gi9HngcvjjuvP2sDE2vTk\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLmkbLDkt7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8D+m97epfDEjsj41cb/iMfHz8PBqtPrsfj9g/iaiebDu/Dgsd6ZrcDehsXGhQ==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/mkbLJjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6c2+fIgbfOhrHJg7md0rGa0rCYgbSZ1LWFhuObhLObhLGc0uOa1uKf2+Ob0LiS2uXJ1eWbg7ebhrU=\" data-dl5=\"lMSaqsTrgNuJ2+PY1vfCpeSdsuiSiM3Z0fHc0rXD2tPd0rDasrnikMnOpMqcqcvFsbjmlejPiQ==\" data-dl6=\"h8TS08T4qMuJ2+PY1vfCpeSdsuiSiM3Z0fHc0rXD2tPd0rDasrnikMnOpMqcqcvFsbjmlejPiQ==\" data-dl7=\"rvKZ0OnekeTf1u7Ni/OakbHCzczLm97jvcDZid7MjfP1re/PvcfDjODGvdXCi+/NvbGa06ya17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
