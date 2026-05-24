@@ -1,0 +1,7 @@
+{
+  "Poison-Eating Healer": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"07nPtODOhOviss3Z0dbn17jShuf9tMrNrsqag+Wbu/nnqayf\" data-dl2=\"0/vMjtfIp9LcperIrrPE29Lv17GcqNH6gMnervKZsuDY1tea\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TmkbLejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8D4k+rTuMz7g8v+1+DgjN6drbLJ2+TrtbKa1fv5k+7a1+rfq/v1r9jLhvHIiQ==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7DrvKZja7OjfbEju7LhtHfgO3Dga6cg7HP27fO1rCShOCdhLGa0rCb2rmS2raF1LSehOTIg7LJ1LGY1ufO1bnO0bnMgLCT07jP1LnP1LI=\" data-dl5=\"qunwlbHpjcuJk+Xem8npreTBm+LshuOf16zkssbfrvKZ28bHrs3DtuP1mKzm1cz8mvPAz+Te0g==\" data-dl6=\"qM+ajsbg1MiJk+Xem8npreTBm+LshuOf16zkssbf28bHrs3DrvKZtuP1mKzm1cz8mvPAz+Te0g==\" data-dl7=\"gfnciOTc2uvOkOne1ufYzdHFi/LFjKzvg/XDjOb1quTmkbLLjuTYvbGa06ya17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
