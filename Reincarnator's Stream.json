@@ -1,0 +1,7 @@
+{
+  "Reincarnator's Stream": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"08fhmOf4kcabuMCS27TzitTmkbL4gLTdgbTDtcac1tH609b7\" data-dl2=\"08PzrMDJ0ubCg/vmkbLrqvLujbHEg8rfsOXS27HQ2+7sqMzt\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejEls3Z0a/JjeyFkuTYke7Eg+2FjObLkPLDkt7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8WSlurmtPHn1ef+kMXIus/rj/ua2+jrh8j1junJu8Xzprj8s+2ZsMfNj9fJkQ==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LrvKZhtHfgO3Dga6cg7HP27fO1rCShOCdhLGa0rCb2rmS2raF07mZ1OXLg+CZ0eSe1uSa2rjO1rWZ0LPL07DP2rGd17Y=\" data-dl5=\"gMvCtdbLrvKZisOJjsTri+rmuPaHiu7Nje2epvLOoO7oqceaq9Xtl+XZquLm0OWTtcmYkvfOkQ==\" data-dl6=\"j+jwprLps9WJjsTri+rmuPaHiu7Nje2epvLOoO7oqceaq9Xtl+XZquLm0OXmkbKTtcmYkvfOkQ==\" data-dl7=\"jefflLGZi7HE1fHMl/CezdPPi+/Jg/PmkbLEg/XFkKSY17Odkd75lvPPg+z10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
