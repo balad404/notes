@@ -1,0 +1,7 @@
+{
+  "Barbarian's Adventure In A Fantasy World": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"09HdttGbpMeapLno0ePZgMf+lM6Tjuaa1NDIu7PmkbLMjLTh\" data-dl2=\"08aZhM3Z0eDlo9HspO/1gO7Dvc/Mrdvpi9jYz96YrbDnuu/l\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDkt7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8D9k7byofOdpMz5rrn/iKz/lrDTo83rgPCbhPHthuL7stLdrvKZksfah9bmtcP+kQ==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg7Ob0biT283Z0bHJg7md0rGa0rCYgbTI1riFhLSa1bib1rCd1uCT1uKT1bie17TMhLmS27Kd17eYhuA=\" data-dl5=\"0PbmkbLCqujLttiJ1/b/kePdkMf51OebpM78srecleTv0sXbpOrvoOubp+/GpcfbhMvdhubCsw==\" data-dl6=\"gPGfiNXIq8qJ1/b/rvKZkePdkMf51OebpM78srecleTv0sXbpOrvoOubp+/GpcfbhMvdhubCsw==\" data-dl7=\"0enLl/PJm+XelLHDienEzcPLkOPLkOjLjKSY17Odkd7rhvfPjPXfkOT1q+/1o97sg+/eg/LTvdbFkO3OvbHmkbKa06ya17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
