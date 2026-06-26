@@ -1,0 +1,7 @@
+{
+  "LOSTEND": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"07Dfh/DJtenaqcWSss3Z0eCfgbf5htjPkez+htGdhdvyofeT\" data-dl2=\"0+bmkbLTm9v6vc77iM/EpLOaoMPtkPD11cfpr/LtsuztiejC\" data-dl3=\"ivXekvKQza7ZgenfgerZg/TejfLfkvHGm/KHj/iEkenLkOTajejElq/JjeyFkuTYke7Eg+2FjObLkPLDks3Z0d7DhrKc1/HYjd7FjOzDgfPFke7Mlt7JjeyFve3Lm+7flvKF07SFhu7djO3Fg+WEg/Lamr7ZiuDYh7zjs8LGlej5kM+TltX4qMiHlvLyz+XOqfDrt/Lbu83HjbL7gPbCoMDDgMngtO+ZhQ==\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg7Kf1ria2rCShOCdhLGa0rCb2riZrvKZgLGF2rHLgOeZ1rXO0rid1uOb0rnM2rCbgbbPhrDMhLXM0bI=\" data-dl5=\"rurmkbLzlcT4qeOJqMuYjfCaqrDEqOvh0O77lPPrpdud0+vBo+rd27jEkdXng+Cb0tfBrObs1g==\" data-dl6=\"0O3zoevumsOJqMuYjfCaqrDEqOvh0O77lPPrpdud0+vBo+rd27jEkdXng+Cb0tfBrObmkbLs1g==\" data-dl7=\"l/CckvbLh7Xb0c3Z0erGj7OTzc3lsdXvrMX10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
