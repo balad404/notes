@@ -1,0 +1,7 @@
+{
+  "Kidnapped Dragons": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"09Hii9H9mvTFjtueqPibp9Gfl/TbpLXQ1bLri83Z0crv1PXp\" data-dl2=\"09XrmuLvrvKZjMjcm9jIsrfjtufYhMKTo8372+3nqcPGtM3h\" data-dl3=\"0/jdp9TG0fDdluLArvKZlPTorvj/hO7bj+3/ks+fmvXCmKzA\" data-dl4=\"ivXekvKQza7dlfaEiO7mkbLeluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg7ec0uLJ1eDJ0uKa0bGa0rDO1eea0reF2rWYgeLI1rbLhLab1rTP17jP1eXO0LmTg+Ke17WehuM=\" data-dl5=\"tdLzt8TmmNOJi7bwhuTErfKbvbjmkbL8m9HlluCdq8Le0svYj+3po87Ao+v91rjAsfvptOrQhQ==\" data-dl6=\"odXo07DgqcWJi7bwhs3Z0eTErfKbvbj8m9HlluCdq8Le0svYj+3po87Ao+v91rjAsfvptOrQhQ==\" data-dl7=\"lu7PlrPDmO7I1vLB0OTPzcrDrvKZhu/LkvHPht7ukODNje/ZvbGa06ya17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
