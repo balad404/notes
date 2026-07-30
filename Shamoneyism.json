@@ -1,0 +1,7 @@
+{
+  "Shamoneyism": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0/bprvKZ1cP5kbfZjrHYp8zcoLL1tff5vfnlqOvfkfDQrvf8\" data-dl2=\"09PNpuPCqeqftrbStfnmkbLpj9D6tsDpjffbjvbDjNLctdCZ\" data-dl3=\"07HprvKZ1OLNr+rPocveiLX7pujNi8bmrcbHi7PmrOnArsKS\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg7ec0uLJ1eDJ0uKa0bGa0rDO1efmkbKa0reF27HI2+WehODJg7KZ1rPM1+OThOCY0bWT2+DM1LTO17A=\" data-dl5=\"tc7woezuksCJgeScl+bmkbLos+jsjMX6iNCY0NT4iuLQr9T1hsXr1Nn60LKZqsL/rfXJhN751g==\" data-dl6=\"0dLrp83Z0dXmqNCJgeScl+bos+jsjMX6iNCY0NT4iuLQr9T1hsXr1Nn60LKZqsL/rfXJhN751g==\" data-dl7=\"i7HJl+fJhuCbmOubiuOTzdLCg+zFjOTTi/LHvbHmkbKa06ya17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
