@@ -1,0 +1,7 @@
+{
+  "Boku to Kimitachi no Dungeon Sensou": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapter\" ",
+    "chapter": "data-dl1=\"0/fDpNjml8b+uNDmrfPe0/Hppc3Z0cDA0+nPquLak9Pul9Ka\" data-dl2=\"09bvo8TmkbLfiKzZkrbGh8/Zs9vh0fb7tNmaz+3dsdKTtcDu\" data-dl3=\"07Tu0O/mkbLo0ubOieDfh7f4s+/DgefZiu37m8P/uvPviPf9\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg7abgOeT0bCfhOWb0rGa0rDL0OTL1LCF1rSe1LmY17iS1+Kf1s3Z0bfOgLmT0rid1bnM17Ob27HJg+I=\" data-dl5=\"tefNj8fjsMCJ083Z0embs+rQic/bsczGlcL51vf6uMv5r97SjtadkO36r7WZqNHZhMXa28PflQ==\" data-dl6=\"lM7Clc3Z0cfI19CJ0+mbs+rQic/bsczGlcL51vf6uMv5r97SjtadkO36r7WZqNHZhMXa28PflQ==\" data-dl7=\"iLLd283Z0bnE0PPO0O3JiePFzcPFifT1lu71qejHi/XLgenDve/FvcXfjObPje/1seTEke7fvbGa06ya0riEmOjazefDjuQ=\"",
+    "bohin": ">Chapter 001-009</option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
