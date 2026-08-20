@@ -1,0 +1,7 @@
+{
+  "Genius Blacksmith's Game": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"07jSkfmausf9rvKZs/Hbu8/noOjys87huMLuu7LHku2TkLHY\" data-dl2=\"0+XYgOn9u+jQgLWZjNbe1OvvkcvBtdLmkbKSh9Wd2sqfksfd\" data-dl3=\"0+3eiLjprvKZjLfgj8fPoObnh8v6trXl1O3v2sf7puzImt7Z\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga7mkbKcg7mb0LCd1rXP1+Kb07Ga0rCZ1+PI27aF0OPPh+eZ1eeTh7We1uOf1ePM0OfI1bTO2rDL0rDJhLM=\" data-dl5=\"teDgiPvrq+OJ28LOqN7Hh7jGpbDHo8v80N6aq7DEmu7e1c3Z0fSSqsj9h/X7287Q2+79gdbPlQ==\" data-dl6=\"j8qfrvKZm8nmu9WJ28LOqN7Hh7jGpbDHo8v80N6aq7DEmu7e1fSSqsj9h/X7287Q2+79gdbPlQ==\" data-dl7=\"l/bOlrjTienHmrjMkOXYzcbPjOjfkd7ojuDJifLHi/XCx7Of0LbZvcbLj+TmkbL10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
