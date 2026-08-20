@@ -1,0 +1,7 @@
+{
+  "Momose Akira no Hatsukoi Hatan-chuu": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"097N1/XStMb907Xgr+3/leTDl7fkrvKZrLb/hPXCtbLlirDz\" data-dl2=\"09by0PjQm+nspuz/sfblqNnn183Z0cXLirLYhe/k07aTqNec\" data-dl3=\"0+rHkLDPruzcvc6ctbif2/WSjcjMj8LJsffArvKZksbhi8Tt\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhs3Z0a/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg7mb0LCd1rXP1+Kb07Ga0rCZ1+PI27aF2uCf0rnJh7DOg7aa1uLL1eDIgOST1bjMhOef17LO1Lc=\" data-dl5=\"ssLCi8P+k9WJscf6rcvOvfGciOPmkbLjrPbCgcXz1bPvqOPl0fX9pcDit8D8gMjj1sXNjO/gjQ==\" data-dl6=\"1dXCisbpktiJscf6rcvOvfGciOPjrPbCgcXz1bPvqOPl0fX9pcDit8D8gMjj1sXmkbLNjO/gjQ==\" data-dl7=\"27KbgfCdm/bTge7PkejazczFj+7Zh97riejYg97Ejd7ig/XZl+rFi97ig/XLjKzJivTfvbGa06zmkbKa17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
