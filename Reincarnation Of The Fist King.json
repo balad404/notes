@@ -1,0 +1,7 @@
+{
+  "Reincarnation Of The Fist King": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"08qSgc3Z0bPPiPidqs/IstLLp9bDj8zosvbYtdjn2rT60/Gb\" data-dl2=\"09mervKZhOidkrPPh7X9uLPFi+SHlcbAgbKS1fPhreab0evA\" data-dl3=\"0/XBrvKZhdDBi8L5hujSiPHnluOS2+3BkevJ28jlgbeHjcDb\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg7nM2uWT0rCfhOWb0rGa0rDI2uCbg+CFhLWbhOWc0eLLhLXJ1rKYh+DmkbKegbjM2rnO2rWT1+DP1uA=\" data-dl5=\"odL4odD4gMiJjODmlO7c18/yrubrt7Htp9Twj7LDjc3Z0e3CqtLPl9Trjsnhm/Durbbvh9fDpw==\" data-dl6=\"l+Pr0LPgqc3Z0cqJjODmlO7c18/yrubrt7Htp9Twj7LDje3CqtLPl9Trjsnhm/Durbbvh9fDpw==\" data-dl7=\"l/LLmO2a17jCjefEmvmbzdPPi+/Jg/PEg/XDje/1ref1tunPvcfDkfX1qejEhd6a0rCH0rTmkbKazPvDkq7Mi+3P\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
