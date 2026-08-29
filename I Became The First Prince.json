@@ -1,0 +1,7 @@
+{
+  "I Became The First Prince": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0++fmMD6hs7+se/rjrXatffn1+Oah8LPgcySrvKZstudutXE\" data-dl2=\"0+LjgOb+qsici8ru1s7r0fnmkbLgpbbHrsLOpvLPibbtl8z+\" data-dl3=\"0/LIoPSfr+XoiunClLLBh/bii+3mkbKfsvPJt6zGq8LctMue\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3mkbLDga6cg7nM2uWT0rCfhOWb0rGa0rDI2uCbg+CFhrae2uCd2rCbgbif1rCbg7nL0baa1eec1bWY1rHM0+U=\" data-dl5=\"gdTFmMD7u8WJsdjzm9mckNOS0+nhtNnmrc76rvKZj9Kfmu78oczEk9abmujS0vTooe74rtPOhQ==\" data-dl6=\"gdOThcTw1dKJsdjzm9mckNOS0+nhtNnmrc76j9Kfmu78oczEk9abmujS0vTmkbLooe74rtPOhQ==\" data-dl7=\"kbfN2+7MgeLT2vua0vDHzcj1oOTJrvKZg+zPvdXCh97si/PZlt76kOjEgeT10rGaz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
