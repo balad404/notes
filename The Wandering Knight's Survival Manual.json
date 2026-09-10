@@ -1,0 +1,7 @@
+{
+  "The Wandering Knight's Survival Manual": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0/fmkbLvhujAt+7Ss+CaqcTwu/fD29XNt8TaiOLrivvfs/eb\" data-dl2=\"07WTg/eHl9ud1vfejNjc0/v6ivDdo7jtrvKZoPHAhOrN1+3B\" data-dl3=\"0+zli82dh7Hdp+v9luLzgM6fs+2el83Z0bXQ2uXfpsbQ2rTO\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg+Cbh7TL17CfhOWb0rGa0rCa0LKY1+CFrvKZhOec2uLJ2rbM1eOb1uWd0OPLgbHO0bOZ1rKe1LWd1bg=\" data-dl5=\"t9Pwi+vpjc2J29L10+vaheSZrLX/0umbu9f4o+z/jO3ioMXo19OeuOzEpMbCge/brvKZpNHPow==\" data-dl6=\"muKatLH7i+CJ29L10+vahc3Z0eSZrLX/0umbu9f4o+z/jO3ioMXo19OeuOzEpMbCge/bpNHPow==\" data-dl7=\"lfPAg/Tale/bmufAiLWYzdXCh979g+/Oh/PDjOb1qe/Dhenex7Of0LbZvdLmkbLfkPfDlODGvczLjPTLjt6a0rCH0rSazPvDkq7Mi+3P\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
