@@ -1,0 +1,7 @@
+{
+  "A Cadet Becomes A Prophet": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0/uHhvXjkuKZs8voptDmlcTZtsTmkbLZl8+T1PiY1tHg1tbw\" data-dl2=\"08XupffBr9uepcDFmsb/gLTrpOjJj+LjrvKZ1PfwifXcj8vM\" data-dl3=\"0+ydvcT9rvKZ1Mrdi7PDrMnj09vQjcLIj7n5qefZl8bArrfE\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7Lhs3Z0dHfgO3Dga6cg+CTh7TI0LSe0Lmeg7Ga0rCTgeea0bKF1uec1LTIgeLO17bP1reah7nIh7HM2+DJ2ufLg7HM0OU=\" data-dl5=\"icvoiNLuo9CJ0bHSmNv5kevJuOzY297Sq87AkfP+1qzstM7PmO2Sj7De1rSbrcDmkbLG1enylQ==\" data-dl6=\"pMvej9fum+OJ0bHSmNv5kevJuOzY297Sq87AkfP+1qzstM7PmO2Sj7De1rSbrvKZrcDG1enylQ==\" data-dl7=\"0+XYic3Z0fLBkfPYhLDIk/mdzcD1oeDOh/X1oOTJjezPkd7rvdHYjfHCh/X10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
