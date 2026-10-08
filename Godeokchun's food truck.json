@@ -1,0 +1,7 @@
+{
+  "Godeokchun's food truck": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"08/y1/DAiMzyuPjSi8Of0/XotrbApbDZssvp1c7mkbL4vcDP\" data-dl2=\"097vg9bcrtTtie7zseyHsePmkbLimNH/hdLFhcT41+yd1LH1\" data-dl3=\"09DZp+XDgNabz8Sa1tXYpM3Z0babhu3a0MuYrLTNveSYkvT5\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDmkbLJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg+KchOWTgLSe0Lmeg7Ga0rCTgefL0uOFh7GagLCe0+XMgOOf1refgbib07abhLmd0rGY1+CZ1+U=\" data-dl5=\"hs/jrvKZtcTIks2Jl9jMoPPIp7D5qNHwo/TPm/Ds1sP6gcOcrszf0sWdtMPekdn5qdXLlPfhsw==\" data-dl6=\"sM+T0NPmo9OJl9jMoPPIp7D5qNHwo/TPm/DsrvKZ1sP6gcOcrszf0sWdtMPekdn5qdXLlPfhsw==\" data-dl7=\"1ujB0uvZkOjG1+Db2+/HzcbFhuTFieLCl++P0LSY1fL1hO7Fht7ekPTJid6a0rCH0rSazPvDkq7mkbLMi+3P\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
