@@ -1,0 +1,7 @@
+{
+  "My Avatar Is Becoming the Final Boss": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0+jfqen/rubz2sfQtMDHpsTpgNCYoebTrvKZmM3Ejfjto/XI\" data-dl2=\"0+n8l+rmkbLNgfCHrMDvhOmYj+zG2vaY1rfrkfbFi+fE1OqZ\" data-dl3=\"0+/H0bnHsvvmkbL+js+ejLnGu9magLXtr+LnkeXOt8DQhvLA\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7frvKZhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg+KchOWTgLSe0Lmeg7Ga0rCTgefL0uOFg+DL1uXP17bI0LbJ1uKa0uOch+DIgLDL1bGT17aSgeA=\" data-dl5=\"mtjFmu34oMCJptbplenH17fHqu/sz/GY2sfstPjyrOvFtszrtLXg0bjem9TmkbLI0/v4z+ea1g==\" data-dl6=\"28DkiMfmjdWJptbplenH17fHqu/sz/GY2sfstPjyrOvFtszmkbLrtLXg0bjem9TI0/v4z+ea1g==\" data-dl7=\"2uOb17WcjbiSkvfEi+6fzczTvcDcg/XLkN7jkd7oh+LFj+jErvKZhd7eiuT1pOjEg+31oO7Zkd6a0rGH0rSazPvDkq7Mi+3P\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
