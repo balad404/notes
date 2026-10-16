@@ -1,0 +1,7 @@
+{
+  "The Demon King Overrun By Heroes": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"07HElu/dru/Pmt79jtfarOrkp8XH0vKervKZrbPh1LHTiNXO\" data-dl2=\"07Tmk83Cjcueq7LbqLbIlOTFt/DBitL91e3mkbLMoeDAqPSc\" data-dl3=\"07bAlvTrlNjT1rfYg7Hmqemf0OOfrvKZvcj+0+XJrrTn1NSd\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg+Wa2rKegbef1LWZ07Ga0rCegefMrvKZhrSF0eed1uPM1LHLgLOS1rmfgLmd0uCf0rCa0eCYgbeT1ec=\" data-dl5=\"kcvj0+b7isCJvcLFrvKZr8TItNbu28bvkeTz1PHspazr0vLHmOnLjNbosfvZgbfMks7jrt6Yqw==\" data-dl6=\"sMvnj8P7isuJvcLFr8TItNbu28bvkeTz1PHspazr0vLHrvKZmOnLjNbosfvZgbfMks7jrt6Yqw==\" data-dl7=\"kfPY1fTBleDmkbKYhbHN1ePfzdXCh97uh+zFjN7hi+/Nvc7ch/PYl+/1oPj1quTYjeTZvbGa06ya17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
