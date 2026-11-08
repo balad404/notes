@@ -1,0 +1,7 @@
+{
+  "The Demon God": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"07XNtrP/gNXZ2s3Z0bX60cjPirecrtT7pubC0tDTrs7L0NPi\" data-dl2=\"08nzrfPLh+TPrvKZpuPT0rLgkbTejcDSk/HCu8TbkM6dg+zF\" data-dl3=\"0+Se07nNhuPp1fL7lKz9tfXwj/bupebh1tfaz+r70s3Z0evc\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/mkbLJjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg+TI07CdhrLI2ric07Ga0rDPg+fP2uKF1uCe0eCS0uDO0bad1rGa1OCa1rGd17TM1uTLhrSa0eU=\" data-dl5=\"0Oroo/vjsdiJuNbmkbKeru/B1uaZsbjtqeuZl/XsrejNhvHSsOvai8P1sLOYgKzkjazlocLQgQ==\" data-dl6=\"ldDOusbgseCJuNaeru/B1uaZsbjtqeuZl/XsrejNhvHSsOvai8P1sLOYgKzkjazmkbLlocLQgQ==\" data-dl7=\"1OLElviehfLciOPD0uLJzc3Z0dXCh97uh+zFjN7tjeX10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
