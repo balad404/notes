@@ -1,0 +1,7 @@
+{
+  "The Supreme Demon Swordmaster": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"0+n5hbbQ1tDe07XJtvXjjLjdi9X+ltbzlPLmkbLI0erEhNTn\" data-dl2=\"08XPidDEiOP5u8ruz9fnrvKZtsuHodP/09GYqtiak8jZiNLc\" data-dl3=\"0+bcmtWZ0/j5oNLNttSf07fYsvTt1tbbuPvNvfKdtM3Z0bDC\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cg+TI07CdhrLI2ric07GarvKZ0rDPg+fP2uKFhLTO0+TP1OSa0red1rbLg7mT27Gb1eDI0+SZh+eY1uQ=\" data-dl5=\"uundoObzleCJlKzQqsjSqazDp83yjOrBpvXgrtj1gbXH1PPmkbKZuPv4sNPLjuPgiO/Jh9bhgQ==\" data-dl6=\"jcySm8LpldOJlKzQqsjSqazDp83yjOrmkbLBpvXgrtj1gbXH1POZuPv4sNPLjuPgiO/Jh9bhgQ==\" data-dl7=\"m/TPiLnd1ObJl+ef0vabzdXCrvKZh975l/HYh+zPvcXPj+7EvdLdjfPOj+DZluTYvbGa06ya17GEmOjazefDjuQ=\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
