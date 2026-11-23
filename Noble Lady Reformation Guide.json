@@ -1,0 +1,7 @@
+{
+  "Noble Lady Reformation Guide": {
+    "dl2X": "<div class=\"playlist\" data-nosnippet><select id=\"playlistSelect\"><option selected disabled>Chapterlist:</option><optgroup></optgroup><option class=\"chapters\" ",
+    "chapter": "data-dl1=\"08/gvfL41cfHptLFrvKZpc3e27XMrt7fq+bTrdXCrfTS1NPd\" data-dl2=\"09byo/nN0bLNoeCThO7Iju/ksOPa0s3Z0dH60fSZrsPovdnF\" data-dl3=\"ivXekvKQza6bhvPczOzZzfSFga6brvKZ1ODP0eTP1Laegbme1LTIzcj7oOPTm+7eiNKSsNCclbX4tMbCsevco8DwqNGeqLPggevTsMyflu+TiOnoi82a\" data-dl4=\"ivXekvKQza7dlfaEiO7eluDJju7fhq/JjeyFjfHDjK7Dja7OjfbEju7LhtHfgO3Dga6cgM3Z0bGb0OOb1eSb0rPP1bGa0rDM1rbO27KF0OKd0rLJhrjM2uWS1uOb1ODM0LHP2+DL0Lmc2uDLgec=\" data-dl5=\"0LXN0+rmoMWJhqz1qerS0cPkpOjQheX718X4k83Z0eX8uLnwsrbniffwlfDTmtT4gfPrl9b91g==\" data-dl6=\"sMfOoMD4sduJhqz1qerS0cPkpOjQheX718X4k+X8uM3Z0bnwsrbniffwlfDTmtT4gfPrl9b91g==\" data-dl7=\"1rHNrvKZjfLehLiZ1fuSku3Fzc/FgO3Pvc3Lhvj1sOTMjfPHg/XDje/1pfTDhuT10rGbz7Gf0q/Qi/GFhOjGhw==\"",
+    "bohin": "></option></select></div><div class=\"playlist\"><select id=\"serverSelect\"><option disabled>Serverlist:</option><optgroup></optgroup><option>Server#1</option><option>Server#2</option></select></div><div class=\"unduh\"><form id=\"pintar\" hidden><span id=\"tanya\"></span><input id=\"jawab\" type=\"number\" size=\"4\" placeholder=\". . .\"><a type=\"reset\" style=\"font-size:large\"><i class=\"fas fa-calculator\"></i></a></form></div>"
+  }
+}
